@@ -1,5 +1,3 @@
-# github.io
-Site de fotógrafo
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
